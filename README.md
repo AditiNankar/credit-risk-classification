@@ -39,11 +39,11 @@ The dataset, `lending_data.csv`, contains anonymized records of lending activity
 
 - **Accuracy Score**: `0.93`
 - **Precision Score**:
-  - Class 0 (Healthy Loans): `0.99`
-  - Class 1 (High-Risk Loans): `0.85`
+  - Class 0 (Healthy Loans): `1.00`
+  - Class 1 (High-Risk Loans): `0.84`
 - **Recall Score**:
-  - Class 0: `0.93`
-  - Class 1: `0.60`
+  - Class 0: `0.99`
+  - Class 1: `0.94`
 
 ---
 
